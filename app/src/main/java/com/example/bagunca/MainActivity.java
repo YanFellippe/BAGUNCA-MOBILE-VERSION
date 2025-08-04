@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     WebView webView;
-    String url = "https://ruandd9.github.io/webagunca/";
+    String url = "https://yanfellippe.github.io/bagunca-web/";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
